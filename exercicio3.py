@@ -8,6 +8,6 @@ def soma(a:float, b:float):
     c = a + b
     return c
 
-a = float(input("Informe um valor qualquer: "))
-b = float(input("Informe outro valor qualquer: "))
-print(f"A soma entre {a} + {b} é de {soma(a, b)}")
+#a = float(input("Informe um valor qualquer: "))
+#b = float(input("Informe outro valor qualquer: "))
+#print(f"A soma entre {a} + {b} é de {soma(a, b)}")

@@ -8,8 +8,8 @@ def calcular_area_retangulo(base: float = 1, altura: float = 1):
     area = base * altura
     return area
 
-base = float(input("Informe a base do retângulo: "))
-altura = float(input("Informe a altura do retângulo: "))
-print(f"A área desse retângulo é de {calcular_area_retangulo(base, altura)}")
+#base = float(input("Informe a base do retângulo: "))
+#altura = float(input("Informe a altura do retângulo: "))
+#print(f"A área desse retângulo é de {calcular_area_retangulo(base, altura)}")
 
 # Fazer tratamento de erro em casa
